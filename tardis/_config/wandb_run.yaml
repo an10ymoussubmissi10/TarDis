@@ -1,0 +1,19 @@
+# Config File
+
+wandblogger_kwargs:
+  entity: [REMOVEDFORANONYMITY]
+  project: [REMOVEDFORANONYMITY]
+  name: null # wandb should assign a random one
+  save_dir:
+    relative_to: wandb_parent_directory
+    path: ""
+  mode: online
+  tags:
+    - tardis
+    - conference
+    - figures
+    - final
+  offline: True
+  save_code: False
+  resume: never
+  notes: Final runs for Tardis before conference.

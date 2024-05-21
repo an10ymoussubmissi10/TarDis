@@ -1,0 +1,16 @@
+# Config File
+
+absolute_paths:
+  server:
+    home_directory: [REMOVEDFORANONYMITY]
+    storage_directory: [REMOVEDFORANONYMITY]
+    code_repository: [REMOVEDFORANONYMITY]
+    training_repository: [REMOVEDFORANONYMITY]
+    wandb_parent_directory: [REMOVEDFORANONYMITY]
+
+  local:
+    home_directory: [REMOVEDFORANONYMITY]
+    storage_directory: [REMOVEDFORANONYMITY]
+    code_repository: [REMOVEDFORANONYMITY]
+    training_repository: [REMOVEDFORANONYMITY]
+    wandb_parent_directory: [REMOVEDFORANONYMITY]

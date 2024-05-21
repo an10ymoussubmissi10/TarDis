@@ -1,0 +1,15 @@
+# Config File
+
+io_directories:
+  processed:
+    relative_to: storage_directory
+    path: processed
+  temp:
+    relative_to: storage_directory
+    path: _temporary
+  figures:
+    relative_to: training_repository
+    path: figures
+  models:
+    relative_to: storage_directory
+    path: models

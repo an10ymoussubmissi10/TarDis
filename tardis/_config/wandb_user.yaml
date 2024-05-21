@@ -1,0 +1,10 @@
+# Config File
+
+environment_variables:
+  WANDB_USERNAME: [REMOVEDFORANONYMITY]
+  WANDB_USER_EMAIL: [REMOVEDFORANONYMITY]
+  WANDB_SILENT: "true"
+
+login_credentials:
+  username: [REMOVEDFORANONYMITY]
+  email: [REMOVEDFORANONYMITY]
